@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/IvanBodnar/ivanbodnar.github.io/issues"
   },
-  "homepage": "https://github.com/IvanBodnar/ivanbodnar.github.io#readme"
+  "homepage": "https://github.com/IvanBodnar/ivanbodnar.github.io#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "semantic-ui-css": "^2.4.0"
+  }
 }
