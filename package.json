@@ -1,0 +1,19 @@
+{
+  "name": "ivanbodnar.github.io",
+  "version": "1.0.0",
+  "description": "CV Iván Bodnar",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanBodnar/ivanbodnar.github.io.git"
+  },
+  "author": "Iván Bodnar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanBodnar/ivanbodnar.github.io/issues"
+  },
+  "homepage": "https://github.com/IvanBodnar/ivanbodnar.github.io#readme"
+}
