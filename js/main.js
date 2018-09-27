@@ -1,6 +1,14 @@
 
 $('.ui.progress').progress();
 
+$('.ui.sticky')
+    .sticky({
+        context: '#context',
+        pushing: true
+    })
+;
+
+// Transitions
 $('.terminal.icon')
     .transition('set looping', '8000ms')
     .transition({
@@ -8,9 +16,7 @@ $('.terminal.icon')
         duration: '8000ms'
     });
 
-$('.ui.sticky')
-    .sticky({
-        context: '#context',
-        pushing: true
-    })
+$('#sticky-menu')
+    .transition('zoom in', '5000ms')
 ;
+
