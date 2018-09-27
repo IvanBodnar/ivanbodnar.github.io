@@ -2,3 +2,11 @@
 .main.container {
     margin-top: 7em;
 }
+
+.ui.progress {
+    max-width: 80%;
+}
+
+.bar {
+    margin-top: 6px;
+}
