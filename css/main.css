@@ -37,7 +37,7 @@ i.terminal.small.icon {
     z-index: 10;
 }
 
-@media (max-width: 1113px) {
+@media (max-width: 1201px) {
     .hidden-xs {
         display: none !important;
     }
