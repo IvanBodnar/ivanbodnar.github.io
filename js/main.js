@@ -3,10 +3,11 @@ $('.ui.progress').progress();
 
 $('.ui.sticky')
     .sticky({
-        context: '#context',
-        pushing: true
+        context: '#context'
     })
 ;
+
+$('.ui.dropdown.item').dropdown();
 
 // Transitions
 $('.terminal.icon')

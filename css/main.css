@@ -37,8 +37,18 @@ i.terminal.small.icon {
     z-index: 10;
 }
 
+#github, #mail {
+    color: blue;
+}
+
 @media (max-width: 1201px) {
     .hidden-xs {
+        display: none !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .hidden-xl {
         display: none !important;
     }
 }
