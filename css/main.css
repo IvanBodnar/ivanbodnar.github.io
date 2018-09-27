@@ -21,4 +21,24 @@ i.terminal.small.icon {
 
 .ui.footer.segment {
     margin-top: 100px;
+    z-index: 10;
+}
+
+.ui.segment {
+    font-size: 100%;
+}
+
+.ui.rail {
+    max-width: 100px;
+}
+
+#sticky-menu {
+    position: fixed;
+    z-index: 10;
+}
+
+@media (max-width: 1113px) {
+    .hidden-xs {
+        display: none !important;
+    }
 }

@@ -7,3 +7,10 @@ $('.terminal.icon')
         animation: 'flash',
         duration: '8000ms'
     });
+
+$('.ui.sticky')
+    .sticky({
+        context: '#context',
+        pushing: true
+    })
+;
