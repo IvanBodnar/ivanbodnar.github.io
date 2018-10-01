@@ -40,6 +40,10 @@ i.hand {
     transform: translateX(40px);
 }
 
+#direccion-sangria {
+    transform: translateX(35px);
+}
+
 #sticky-menu {
     position: fixed;
     z-index: 10;
