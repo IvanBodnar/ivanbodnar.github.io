@@ -32,6 +32,10 @@ i.terminal.small.icon {
     max-width: 100px;
 }
 
+p.sangria {
+    text-indent: 5px;
+}
+
 #sticky-menu {
     position: fixed;
     z-index: 10;
