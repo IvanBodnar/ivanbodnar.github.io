@@ -41,13 +41,13 @@ i.terminal.small.icon {
     color: blue;
 }
 
-@media (max-width: 1201px) {
+@media (max-width: 1285px) {
     .hidden-xs {
         display: none !important;
     }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1286px) {
     .hidden-xl {
         display: none !important;
     }
