@@ -53,6 +53,20 @@ i.hand {
     color: blue;
 }
 
+
+
+@media (max-width: 380px) {
+    .four.wide.column>p {
+        font-size: x-small;
+    }
+}
+
+@media (max-width: 380px) {
+    #git {
+        font-size: xx-small;
+    }
+}
+
 @media (max-width: 1285px) {
     .hidden-xs {
         display: none !important;
