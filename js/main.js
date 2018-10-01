@@ -18,6 +18,6 @@ $('.terminal.icon')
     });
 
 $('#sticky-menu')
-    .transition('zoom in', '5000ms')
+    .transition('fade in', '11000ms')
 ;
 
